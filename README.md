@@ -1,4 +1,4 @@
-# 3-DataSplitting  
+# 3-LAMP  
 This is the algorithm to generate the routing after data splitting. Please read this paper: Chen, Hui, et al. "Parallel Multipath Transmission for Burst Traffic Optimization in Point-to-Point NoCs." Proceedings of the 2021 on Great Lakes Symposium on VLSI. 2021.  
 ------------------------------------
 ## Python dependency:  
